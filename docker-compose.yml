@@ -1,0 +1,5 @@
+version: '3'
+services:
+ opencv:
+   image: jethrohicks/opencv:latest
+   build: .
